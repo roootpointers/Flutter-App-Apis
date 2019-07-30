@@ -1,0 +1,27 @@
+[
+  {
+    "outputFileName": "Content/Template/css/bundle.css",
+    "inputFiles": [
+      "Content/Template/css/googlefonts.css",
+      "Content/Template/css/fontawesome-all.min.css",
+      "Content/Template/css/materialize.css",
+      "Content/Template/css/style.css",
+      "Content/Template/css/bootstrap.css",
+      "Content/Template/css/responsive.css",
+      "Content/Template/css/prism.css",
+      "Content/Template/css/awesomplete.css"
+    ]
+  },
+  {
+    "outputFileName": "Content/Template/js/bundle.js",
+    "inputFiles": [
+      "Content/Template/js/awesomplete.js",
+      "Content/Template/js/prism.js",
+      "Content/Template/js/jquery-ui.js",
+      "Content/Template/js/angular.min.js",
+      "Content/Template/js/materialize.min.js",
+      "Content/Template/js/jquery.mixitup.min.js",
+      "Content/Template/js/custom.js"
+    ]
+  }
+]

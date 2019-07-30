@@ -1,0 +1,338 @@
+C:\Users\jawad\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\jawad\Desktop\Project\Project\bin\ApplicationInsights.config
+C:\Users\jawad\Desktop\Project\Project\bin\Project.dll.config
+C:\Users\jawad\Desktop\Project\Project\bin\Project.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Project.pdb
+C:\Users\jawad\Desktop\Project\Project\bin\Antlr3.Runtime.dll
+C:\Users\jawad\Desktop\Project\Project\bin\EntityFramework.dll
+C:\Users\jawad\Desktop\Project\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.Web.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Newtonsoft.Json.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Owin.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Net.Http.Formatting.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Helpers.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Http.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Http.WebHost.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Mvc.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Optimization.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Razor.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.WebPages.dll
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\jawad\Desktop\Project\Project\bin\WebGrease.dll
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Net.Http.Formatting.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Http.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Http.WebHost.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Helpers.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Mvc.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Optimization.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.Razor.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.WebPages.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jawad\Desktop\Project\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Antlr3.Runtime.pdb
+C:\Users\jawad\Desktop\Project\Project\bin\Newtonsoft.Json.xml
+C:\Users\jawad\Desktop\Project\Project\bin\EntityFramework.xml
+C:\Users\jawad\Desktop\Project\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jawad\Desktop\Project\Project\bin\Microsoft.AI.Web.xml
+C:\Users\jawad\Desktop\Project\Project\obj\Debug\Project.dll
+C:\Users\jawad\Desktop\Project\Project\obj\Debug\Project.pdb
+C:\Users\jawad\Desktop\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\jawad\Desktop\Project\Project\bin\PagedList.dll
+C:\Users\jawad\Desktop\Project\Project\bin\PagedList.Mvc.dll
+C:\Users\jawad\Desktop\Project\Project\bin\PagedList.xml
+C:\Users\jawad\Desktop\Project\Project\bin\PagedList.Mvc.xml
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.dll
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.pdb
+C:\Users\jawad\Desktop\Android Apis\Project\bin\ApplicationInsights.config
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Project.dll.config
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Project.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Project.pdb
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Antlr3.Runtime.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\EntityFramework.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.Web.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Newtonsoft.Json.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Owin.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\PagedList.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Net.Http.Formatting.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Helpers.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Http.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Http.WebHost.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Mvc.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Optimization.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Razor.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.WebPages.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\WebGrease.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\PagedList.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Net.Http.Formatting.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Http.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Http.WebHost.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Helpers.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Mvc.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Optimization.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Razor.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.WebPages.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Antlr3.Runtime.pdb
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Newtonsoft.Json.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\EntityFramework.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\Microsoft.AI.Web.xml
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Cors.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Http.Cors.dll
+C:\Users\jawad\Desktop\Android Apis\Project\bin\System.Web.Http.Cors.xml
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M1.resources
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M2.resources
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M3.resources
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M4.resources
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M5.resources
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M6.resources
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M7.resources
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M71.resources
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M9.resources
+C:\Users\jawad\Desktop\Android Apis\Project\obj\Debug\Project.Migrations.M10.resources
+C:\Users\jawad\Desktop\Rottery\Project\bin\ApplicationInsights.config
+C:\Users\jawad\Desktop\Rottery\Project\bin\Project.dll.config
+C:\Users\jawad\Desktop\Rottery\Project\bin\Project.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Project.pdb
+C:\Users\jawad\Desktop\Rottery\Project\bin\Antlr3.Runtime.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\EntityFramework.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.Web.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Newtonsoft.Json.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Owin.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\PagedList.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Net.Http.Formatting.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Cors.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Helpers.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Http.Cors.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Http.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Http.WebHost.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Mvc.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Optimization.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Razor.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.WebPages.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\WebGrease.dll
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\PagedList.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Net.Http.Formatting.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Http.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Http.Cors.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Http.WebHost.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Helpers.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Mvc.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Optimization.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.Razor.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.WebPages.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Antlr3.Runtime.pdb
+C:\Users\jawad\Desktop\Rottery\Project\bin\Newtonsoft.Json.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\EntityFramework.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jawad\Desktop\Rottery\Project\bin\Microsoft.AI.Web.xml
+C:\Users\jawad\Desktop\Rottery\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\jawad\Desktop\Rottery\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\jawad\Desktop\Rottery\Project\obj\Debug\Project.dll
+C:\Users\jawad\Desktop\Rottery\Project\obj\Debug\Project.pdb
+C:\Users\aa\Desktop\Rottery\Project\bin\ApplicationInsights.config
+C:\Users\aa\Desktop\Rottery\Project\bin\Project.dll.config
+C:\Users\aa\Desktop\Rottery\Project\bin\Project.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Project.pdb
+C:\Users\aa\Desktop\Rottery\Project\bin\Antlr3.Runtime.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\EntityFramework.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\EntityFramework.SqlServer.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.Web.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.ApplicationInsights.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Newtonsoft.Json.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Owin.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\PagedList.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Net.Http.Formatting.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Cors.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Helpers.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Http.Cors.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Http.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Http.WebHost.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Mvc.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Optimization.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Razor.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.WebPages.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\WebGrease.dll
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\PagedList.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Net.Http.Formatting.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Http.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Http.Cors.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Http.WebHost.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Helpers.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Mvc.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Optimization.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.Razor.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.WebPages.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Antlr3.Runtime.pdb
+C:\Users\aa\Desktop\Rottery\Project\bin\Newtonsoft.Json.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\EntityFramework.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\EntityFramework.SqlServer.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.ApplicationInsights.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\aa\Desktop\Rottery\Project\bin\Microsoft.AI.Web.xml
+C:\Users\aa\Desktop\Rottery\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\aa\Desktop\Rottery\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\aa\Desktop\Rottery\Project\obj\Debug\Project.dll
+C:\Users\aa\Desktop\Rottery\Project\obj\Debug\Project.pdb
